@@ -11,7 +11,7 @@
     "resolveJsonModule": true,
     "noImplicitOverride": true
   },
-  "include": ["*.ts", "*.json", "*.js"],
+  "include": ["*.ts", "*.js"],
   "exclude": ["node_modules", "dist"],
   "ts-node": {
     "files": true,
